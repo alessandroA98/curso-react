@@ -1,0 +1,9 @@
+.challenge{
+    background-color: violet;
+    color: blue;
+    margin-bottom: 20px;
+    width: 400px;
+    display: inline-block;
+    flex-wrap: wrap;
+    margin-right: 40px;
+}

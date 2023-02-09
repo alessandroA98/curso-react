@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "camisa",
+      "price": 59.99
+    },
+    {
+      "id": 2,
+      "name": "short",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "name": "cueca",
+      "price": 9.99
+    },
+    {
+      "name": "Alessandro Nascimento Assunção",
+      "price": "344",
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 5
+    },
+    {
+      "name": "Alessandro Nascimento Assunção",
+      "price": "1",
+      "id": 6
+    },
+    {
+      "name": "Alessandro Nascimento Assunção",
+      "price": "1",
+      "id": 7
+    },
+    {
+      "name": "Alessandro Nascimento Assunção",
+      "price": "1",
+      "id": 8
+    },
+    {
+      "name": "Alessandro Nascimento Assunção",
+      "price": "1",
+      "id": 9
+    },
+    {
+      "name": "Alessandro Nascimento Assunção",
+      "price": "1",
+      "id": 10
+    },
+    {
+      "name": "blogpessoal",
+      "price": "233",
+      "id": 11
+    },
+    {
+      "name": "manga",
+      "price": "5",
+      "id": 12
+    },
+    {
+      "name": "manga",
+      "price": "5",
+      "id": 13
+    },
+    {
+      "name": "manga",
+      "price": "545",
+      "id": 14
+    }
+  ]
+}
